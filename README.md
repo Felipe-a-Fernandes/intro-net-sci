@@ -1,2 +1,2 @@
 # intro-net-sci
-Códigos usados no livro do minicurso introdutório sobre redes.
+Códigos usados no livro do minicurso introdutório sobre ciência das redes.
